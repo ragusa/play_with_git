@@ -1,1 +1,12 @@
 This is the first commit into Master
+
+
+
+Now I am working a modifying this file but I realize that I want it in a branch, not in Master . . .
+
+So I did:
+git stash
+git stash branch my_new_branch
+
+and added this comments to that file from my_new_branch. Now, I am about to commit in my new branch. Let’s see what happens.
+
